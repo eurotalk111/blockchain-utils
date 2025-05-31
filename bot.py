@@ -306,4 +306,4 @@ async def block_help(ctx):
     await ctx.send(embed=embed)
 
 # Run the bot
-bot.run('MTM3ODE2OTIwNDM3MjQxMDM4OA.GTL10h.BSto4sR9HvgeNgk_wYyI8_NAmidE_hHNWy2at4')
+bot.run('YOUR_DISCORD_BOT_TOKEN')
